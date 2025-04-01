@@ -1,6 +1,6 @@
 Version de C: C17
 
-Compilador: MinGW (version 13.2.0)
+Compilador: gcc (MinGW version 13.2.0)
 
 resolucion:
 
