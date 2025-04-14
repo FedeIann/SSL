@@ -1,8 +1,8 @@
-Version de C: C17
+/*Version de C: C17
 
 Compilador: gcc (MinGW version 14.2.0)
 
-resolucion:
+resolucion:*/
 
 #include <stdio.h> 
 
