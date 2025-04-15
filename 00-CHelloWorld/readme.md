@@ -6,6 +6,8 @@ Compilador: gcc (MinGW version 14.2.0)
 
 La version de MinGW fue conseguida ejecutando gcc --version en la terminal
 
+El output del ejecutable fue redireccionado a output.txt usando el simbolo > para que la salida del ejecutable sea plasmada en un archivo de texto
+
 Consigna 
 
  • Demostrar capacidad para editar, compilar, y ejecutar programas C mediante
